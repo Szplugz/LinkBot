@@ -19,7 +19,6 @@ Finally, you need to grab your API Key and Secret from Zoom. Do this by going to
 key='your_api_key'
 secret='your_api_secret'
 ```  
-\
 That's it! You can now run the program from the command line
 ```shell
 python main.py
