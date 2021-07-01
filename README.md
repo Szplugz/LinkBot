@@ -31,6 +31,7 @@ and you should see the bot come online in your server.
 The current commands are listed below:  
 \
 ```$new zoom``` - generates a Zoom Meeting link.\
-```$new gmeet``` - generates a Google Meet link.  
+```$new gmeet``` - generates a Google Meet link.\
+```$changeprefix {prefix}``` - changes the bot prefix to whichever character you type.  
 \
 I plan to add more functionality in the future.
