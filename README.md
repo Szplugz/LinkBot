@@ -12,10 +12,11 @@ pip install -r requirements.txt
 ```
 And make sure you have python 3 and ```pip``` installed.  
 \
-Next, you'll need to create two files in the bot's directory, namely a ```.env``` file and ```TOKEN.txt```. The environment file will store your zoom authorization variables, and the text file will store the bot's token. You should start by [creating a bot account on discord](https://discordpy.readthedocs.io/en/latest/discord.html). Once you've invited the bot to your server and copied the token, paste it into the ```TOKEN.txt``` file you created. The token should be the only element present in that file.  
+Next, you'll need to create a ```.env``` file in the bot's directory. The environment file will store your zoom authorization variables and the token for your Discord bot. You should start by [creating a bot account on discord](https://discordpy.readthedocs.io/en/latest/discord.html). Once you've invited the bot to your server and copied the token, paste it into the ```.env``` file.  
 \
-Finally, you need to grab your API Key and Secret from Zoom. Do this by going to https://developers.zoom.us and click on 'Build app'. Create a JWT app and from the 'App Credentials' tab, copy your API Key and API Secret and paste them into the ```.env``` file:
+Finally, you need to grab your API Key and Secret from Zoom. Do this by going to https://developers.zoom.us and click on 'Build app'. Create a JWT app and from the 'App Credentials' tab, copy your API Key and API Secret and paste them into the ```.env``` file, which should now look like this:
 ```
+token='your_discord_token'
 key='your_api_key'
 secret='your_api_secret'
 ```  
