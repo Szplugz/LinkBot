@@ -1,5 +1,7 @@
 # LinkBot
 
+## ***Linkbot is deprecated. It will remain in this adolescent, unfulfilled state for eternity. There is nothing anyone can do about it.***
+
 A Discord Bot that creates Zoom and Google meeting links directly through Discord. As of now, the bot needs to be hosted locally on at least one user's machine, so you'll need to clone the repository and create a new bot application before you can invite the bot to your servers and use it. I plan to host it virtually in the near future and eliminate the need to clone the repo and create multiple bots.
 
 ## Setup
@@ -35,5 +37,3 @@ The current commands are listed below:
 ```$changeprefix {prefix}``` - changes the bot prefix to whichever character you type.  
 \
 ~~I plan to add more functionality in the future.
-
-Linkbot is deprecated. It will remain in this adolescent, unfulfilled state for eternity. There is nothing anyone can do about it.
