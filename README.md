@@ -34,4 +34,6 @@ The current commands are listed below:
 ```$new gmeet``` - generates a Google Meet link.\
 ```$changeprefix {prefix}``` - changes the bot prefix to whichever character you type.  
 \
-I plan to add more functionality in the future.
+~~I plan to add more functionality in the future.
+
+Linkbot is deprecated. It will remain in this adolescent, unfulfilled state for eternity. There is nothing anyone can do about it.
